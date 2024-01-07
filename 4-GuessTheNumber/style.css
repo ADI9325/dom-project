@@ -3,10 +3,10 @@ html {
 }
 
 body {
-  width: 300px;
+   width: 300px;
   max-width: 750px;
   min-width: 480px;
-  margin: 0 auto;
+  margin : 0 auto;
   background-color: #212121;
 }
 
